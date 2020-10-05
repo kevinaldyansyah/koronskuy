@@ -15,14 +15,15 @@ REST API, MP Cart Android, Bahasa Pemrograman Java, dan Refresh data sekitar 30 
 
 Fitur		:
 1.	Home		    : Menampilkan grafik Covid-19 di Indonesia
-2.	History		  : Menampilkan grafik Covid-19 di Dunia
+2.	History		  : Menampilkan grafik Covid-19 di Dunia dan Menampilkan urutan negara yang memiliki kasus terbanyak
 3.	Prevention	: Menampilkan tata cara pencegahan Covid-19
-4.	Top Global	: Menampilkan urutan negara yang memiliki kasus terbanyak
+4.	News      	: Menampilkan berita Covid-19 terbaru
 
 Manfaat	:
 -	Mengetahui penambahan kasus secara realtime
 -	Mengetahui cara pencegahan covid-19
 -	Mengetahui daerah dengan penambahan kasus terbanyak
+- Mengetahui berita Covid-19 terbaru
 
 Alasan yang terjadi jika sistem tidak dibuat	:
 -	Kesulitan dalam memantau penambahan kasus covid-19
