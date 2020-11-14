@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    tools:context="id.proyek2.koronskuy.activity.InfoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        style="@style/AppTheme.styleMarginAll">
+
+        <Button
+            android:id="@+id/btnInfoSymptom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/colorAccent"
+            android:drawableTop="@drawable/ic_symptom"
+            android:text="@string/symptoms"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/btnInfoHospital"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/colorAccent"
+            android:drawableTop="@drawable/ic_hospital"
+            android:text="@string/hospital"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/btnInfoAdviceWho"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/colorAccent"
+            android:drawableTop="@drawable/ic_who"
+            android:text="@string/advice_from_who"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+
+</LinearLayout>
