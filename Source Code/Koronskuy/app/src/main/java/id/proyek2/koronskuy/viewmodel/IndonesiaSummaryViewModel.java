@@ -1,15 +1,3 @@
-/*
- * Made With Love
- * Author @Moh Husni Mubaraq
- * Not for Commercial Purpose
- */
-
-/*
- * Made With Love
- * Author @Moh Husni Mubaraq
- * Not for Commercial Purpose
- */
-
 package id.proyek2.koronskuy.viewmodel;
 
 import androidx.lifecycle.LiveData;
