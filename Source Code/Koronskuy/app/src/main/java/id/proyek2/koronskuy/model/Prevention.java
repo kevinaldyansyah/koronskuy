@@ -1,9 +1,3 @@
-/*
- * Made With Love
- * Author @Moh Husni Mubaraq
- * Not for Commercial Purpose
- */
-
 package id.proyek2.koronskuy.model;
 
 public class Prevention {
